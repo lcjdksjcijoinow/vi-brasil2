@@ -1,0 +1,285 @@
+.cabecalho {
+	background-color: #3CB371;
+	color: #FFF;
+	padding: 2px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 3px solid #007627;
+}
+
+p {
+font-family: 'Amatic SC';
+font-style: normal;
+font-weight: 700px;
+font-size: 70px;
+line-height: 88px;
+
+}
+	
+#imagem1{
+	height: 200px;
+	width: 200px;
+}
+
+.corpo{
+	background-color: #87C092;
+	height: 700px;
+}
+
+.rodape{
+	background: #3CB371;
+	height: 70px;
+	border: 3px solid #007627;
+}
+
+.linha {
+	height: 45px;
+	left: 16px;
+	top: 199px;
+	display: flex;
+	background-color: #2E8B57;
+	border: 3px solid #007627;
+
+
+}
+
+#pesquisa{
+	box-sizing: border-box;
+
+	position: absolute;
+	
+	width: 582px;
+	height: 37px;
+	left: 829px;
+	top: 203px;
+	display: flex;
+	margin-top: 50px;
+
+	background: #D9D9D9;
+}
+#lupa{
+width: 39px;
+height: 39px;
+left: 600px;
+top: 150px;
+margin-top: 1px;
+}
+#pequeno {
+	height: 30px;
+	width: 30px;
+	padding-top: 10px;
+	left: 100px;
+}
+#letra2{
+	font-family: 'Amatic SC';
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 32px;
+	line-height: 40px;
+	color: #FFFFFF;
+	padding-left: 50px;
+	align-items: center;
+	margin-top: 4px;
+}
+#meio {
+	
+box-sizing: border-box;
+	position: absolute;
+	width: 1550px;
+	height: 378px;
+	left: 16px;
+	top: 259px;
+	display: flex;
+	margin-top: 50px;
+
+	background: #3CB371;
+	border: 3px solid #0702FF;
+}
+#flexa{
+		position: absolute;
+width: 99px;
+height: 61px;
+margin-top: 200px;
+display: flex;
+left: 400px;
+}
+#esquerda{
+
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 930px;
+	height: 286px;
+	left: 16px;
+	top: 645px;
+	display: flex;
+	
+	margin-top: 50px;
+
+	background: #3CB371;
+	border: 3px solid #FFD600
+}
+#direita {
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 600px;
+	height: 286px;
+	left: 964px;
+	top: 645px;
+	display: flex;
+	
+	margin-top: 50px;
+
+	background: #2E8B57;
+	border: 3px solid #0702FF;
+
+}
+
+#letra3{
+	
+	font-family: 'Amatic SC';
+	font-style: normal;
+	font-weight: 450px;
+	font-size: 70px;
+	line-height: 88px;
+	margin-left: 250px;
+	margin-top: 100px;
+	color: #000000;
+
+}
+#mulhermala{
+	box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 300px;
+left: 870px;
+top: 30px;
+
+background: url(Check-list-viagem-Lugares-baratos-para-viajar.jpg);
+border: 3px solid #0702FF;
+}
+
+#mulher{
+	box-sizing: border-box;
+
+position: absolute;
+width: 737px;
+height: 345px;
+left: 750px;
+top: 10px;
+margin-trim: 400px;
+display: flex;
+
+background: #2E8B57;
+border: 3px solid #FFD600;
+}
+
+#letra4{
+	position: absolute;
+width: 198px;
+height: 199px;
+left: 323px;
+margin-top: 5px;
+display: flex;
+
+font-family: 'Amatic SC';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 88px;
+
+color: #000000;
+
+}
+#letra5{
+	position: absolute;
+width: 721px;
+height: 159px;
+left: 73px;
+top: 50px;
+
+font-family: 'Amatic SC';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+
+color: #000000;
+
+}
+#letra6 {
+	position: absolute;
+width: 434px;
+height: 177px;
+left: 1050px;
+top: 672px;
+
+font-family: 'Amatic SC';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 88px;
+
+color: #000000;
+
+}
+
+#letra7{
+	position: absolute;
+width: 1035px;
+height: 42px;
+left: 500px;
+top: 964px;
+
+font-family: 'Amatic SC';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+
+color: #000000;
+
+}
+#mala{
+	position: absolute;
+width: 77px;
+height: 103px;
+left: 1250px;
+top: 850px;
+
+}
+
+#aviao{
+	position: absolute;
+width: 61px;
+height: 55px;
+left: 262px;
+top: 20px;
+
+}
+#insta{
+	position: absolute;	
+width: 45px;
+height: 45px;
+left: 300px;
+top: 1010px;
+
+}
+#face{
+		position: absolute;
+height: 45px;
+left: 350px;
+top: 1010px;
+
+}
+#what{
+	position: absolute;
+width: 45px;
+height: 45px;
+left: 400px;
+top: 1010px;
+
+}
